@@ -1,0 +1,421 @@
+---
+H:
+  value: "22"
+  decays:
+  - H
+He:
+  value: "13112221133211322112211213322112"
+  decays:
+  - Hf
+  - Pa
+  - H
+  - Ca
+  - Li
+Li:
+  value: "312211322212221121123222112"
+  decays:
+  - He
+Be:
+  value: "111312211312113221133211322112211213322112"
+  decays:
+  - Ge
+  - Ca
+  - Li
+B:
+  value: "1321132122211322212221121123222112"
+  decays:
+  - Be
+C:
+  value: "3113112211322112211213322112"
+  decays:
+  - B
+N:
+  value: "111312212221121123222112"
+  decays:
+  - C
+O:
+  value: "132112211213322112"
+  decays:
+  - N
+F:
+  value: "31121123222112"
+  decays:
+  - O
+Ne:
+  value: "111213322112"
+  decays:
+  - F
+Na:
+  value: "123222112"
+  decays:
+  - Ne
+Mg:
+  value: "3113322112"
+  decays:
+  - Pm
+  - Na
+Al:
+  value: "1113222112"
+  decays:
+  - Mg
+Si:
+  value: "1322112"
+  decays:
+  - Al
+P:
+  value: "311311222112"
+  decays:
+  - Ho
+  - Si
+S:
+  value: "1113122112"
+  decays:
+  - P
+Cl:
+  value: "132112"
+  decays:
+  - S
+Ar:
+  value: "3112"
+  decays:
+  - Cl
+K:
+  value: "1112"
+  decays:
+  - Ar
+Ca:
+  value: "12"
+  decays:
+  - K
+Sc:
+  value: "3113112221133112"
+  decays:
+  - Ho
+  - Pa
+  - H
+  - Ca
+  - Co
+Ti:
+  value: "11131221131112"
+  decays:
+  - Sc
+V:
+  value: "13211312"
+  decays:
+  - Ti
+Cr:
+  value: "31132"
+  decays:
+  - V
+Mn:
+  value: "111311222112"
+  decays:
+  - Cr
+  - Si
+Fe:
+  value: "13122112"
+  decays:
+  - Mn
+Co:
+  value: "32112"
+  decays:
+  - Fe
+Ni:
+  value: "11133112"
+  decays:
+  - Zn
+  - Co
+Cu:
+  value: "131112"
+  decays:
+  - Ni
+Zn:
+  value: "312"
+  decays:
+  - Cu
+Ga:
+  value: "13221133122211332"
+  decays:
+  - Eu
+  - Ca
+  - Ac
+  - H
+  - Ca
+  - Zn
+Ge:
+  value: "31131122211311122113222"
+  decays:
+  - Ho
+  - Ga
+As:
+  value: "11131221131211322113322112"
+  decays:
+  - Ge
+  - Na
+Se:
+  value: "13211321222113222112"
+  decays:
+  - As
+Br:
+  value: "3113112211322112"
+  decays:
+  - Se
+Kr:
+  value: "11131221222112"
+  decays:
+  - Br
+Rb:
+  value: "1321122112"
+  decays:
+  - Kr
+Sr:
+  value: "3112112"
+  decays:
+  - Rb
+Y:
+  value: "1112133"
+  decays:
+  - Sr
+  - U
+Zr:
+  value: "12322211331222113112211"
+  decays:
+  - Y
+  - H
+  - Ca
+  - Tc
+Nb:
+  value: "1113122113322113111221131221"
+  decays:
+  - Er
+  - Zr
+Mo:
+  value: "13211322211312113211"
+  decays:
+  - Nb
+Tc:
+  value: "311322113212221"
+  decays:
+  - Mo
+Ru:
+  value: "132211331222113112211"
+  decays:
+  - Eu
+  - Ca
+  - Tc
+Rh:
+  value: "311311222113111221131221"
+  decays:
+  - Ho
+  - Ru
+Pd:
+  value: "111312211312113211"
+  decays:
+  - Rh
+Ag:
+  value: "132113212221"
+  decays:
+  - Pd
+Cd:
+  value: "3113112211"
+  decays:
+  - Ag
+In:
+  value: "11131221"
+  decays:
+  - Cd
+Sn:
+  value: "13211"
+  decays:
+  - In
+Sb:
+  value: "3112221"
+  decays:
+  - Pm
+  - Sn
+Te:
+  value: "1322113312211"
+  decays:
+  - Eu
+  - Ca
+  - Sb
+I:
+  value: "311311222113111221"
+  decays:
+  - Ho
+  - Te
+Xe:
+  value: "11131221131211"
+  decays:
+  - I
+Cs:
+  value: "13211321"
+  decays:
+  - Xe
+Ba:
+  value: "311311"
+  decays:
+  - Cs
+La:
+  value: "11131"
+  decays:
+  - Ba
+Ce:
+  value: "1321133112"
+  decays:
+  - La
+  - H
+  - Ca
+  - Co
+Pr:
+  value: "31131112"
+  decays:
+  - Ce
+Nd:
+  value: "111312"
+  decays:
+  - Pr
+Pm:
+  value: "132"
+  decays:
+  - Nd
+Sm:
+  value: "311332"
+  decays:
+  - Pm
+  - Ca
+  - Zn
+Eu:
+  value: "1113222"
+  decays:
+  - Sm
+Gd:
+  value: "13221133112"
+  decays:
+  - Eu
+  - Ca
+  - Co
+Tb:
+  value: "3113112221131112"
+  decays:
+  - Ho
+  - Gd
+Dy:
+  value: "111312211312"
+  decays:
+  - Tb
+Ho:
+  value: "1321132"
+  decays:
+  - Dy
+Er:
+  value: "311311222"
+  decays:
+  - Ho
+  - Pm
+Tm:
+  value: "11131221133112"
+  decays:
+  - Er
+  - Ca
+  - Co
+Yb:
+  value: "1321131112"
+  decays:
+  - Tm
+Lu:
+  value: "311312"
+  decays:
+  - Yb
+Hf:
+  value: "11132"
+  decays:
+  - Lu
+Ta:
+  value: "13112221133211322112211213322113"
+  decays:
+  - Hf
+  - Pa
+  - H
+  - Ca
+  - W
+W:
+  value: "312211322212221121123222113"
+  decays:
+  - Ta
+Re:
+  value: "111312211312113221133211322112211213322113"
+  decays:
+  - Ge
+  - Ca
+  - W
+Os:
+  value: "1321132122211322212221121123222113"
+  decays:
+  - Re
+Ir:
+  value: "3113112211322112211213322113"
+  decays:
+  - Os
+Pt:
+  value: "111312212221121123222113"
+  decays:
+  - Ir
+Au:
+  value: "132112211213322113"
+  decays:
+  - Pt
+Hg:
+  value: "31121123222113"
+  decays:
+  - Au
+Tl:
+  value: "111213322113"
+  decays:
+  - Hg
+Pb:
+  value: "123222113"
+  decays:
+  - Tl
+Bi:
+  value: "3113322113"
+  decays:
+  - Pm
+  - Pb
+Po:
+  value: "1113222113"
+  decays:
+  - Bi
+At:
+  value: "1322113"
+  decays:
+  - Po
+Rn:
+  value: "311311222113"
+  decays:
+  - Ho
+  - At
+Fr:
+  value: "1113122113"
+  decays:
+  - Rn
+Ra:
+  value: "132113"
+  decays:
+  - Fr
+Ac:
+  value: "3113"
+  decays:
+  - Ra
+Th:
+  value: "1113"
+  decays:
+  - Ac
+Pa:
+  value: "13"
+  decays:
+  - Th
+U:
+  value: "3"
+  decays:
+  - Pa
